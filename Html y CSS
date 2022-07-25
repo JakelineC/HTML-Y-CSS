@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Css con Jake</title>
+    </head>
+    <body>
+        <h1>"Hola, Mundo"</h1>
+        <h2>Estamos en el proceso de aprendizaje</h2>
+
+        <div id="container">
+
+            <header>
+                <h1>Css con jake</h1>
+            </header>
+
+            <nav>
+                <ul>
+                    <li>
+                        <a href="index.html">Inicio</a>
+                    </li>
+                    <li><a href="Contacto.html">Contacto</a></li>
+                </ul> 
+            </nav>
+
+            <section id="content">
+
+                <article class="article">
+                    <h2>¿Que es la programación?</h2>
+                    <p>La programación es el proceso de crear un conjunto de instrucciones que le dicen a una computadora como realizar algún tipo de tarea. Pero no solo la acción de escribir un código para que la computadora o el software lo ejecute.</p>
+                
+                <article class="article">
+                    <h2>Lista de lenguajes de programación</h2>
+
+                    <ol>
+                        <li>Java</li>
+                        <li>Phyton</li>
+                        <li>C#</li>
+                        <li>C++</li>
+                        <li>SQL</li> 
+                    </ol>
+
+                <article class="article">
+                    <h2>Imagen Tipos de lenguajes</h2>
+
+                    <img alt="Tipos de lenguajes" src="https://blog.facialix.com/wp-content/uploads/2022/02/Blog210219_2.jpg" />
+
+                <article class="article">
+                    <h2>Titulo del articulo</h2>
+                    <p>Texto del articulo</p>        
+
+                </article>
+            </section>
+
+            <aside>
+                <h2>Barra lateral</h2>
+                <form>
+                    <input type="text">
+                    ><input type="submit" value="Buscar" />
+                </form>
+
+            </aside>
+
+            <p>Con este parrafo inicio mi segunda clase de HTML y CSS</p>
+
+            <footer>
+                Jakeline C &copy;2022
+            </footer>
+
+        </div>         
+
+    </body>
+</html>
